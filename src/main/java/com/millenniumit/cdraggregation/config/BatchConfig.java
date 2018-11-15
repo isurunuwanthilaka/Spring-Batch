@@ -31,15 +31,15 @@ public class BatchConfig {
     public CustomerDao customerDao;
 
     @Bean
-    public Job job1() {
-        return jobBuilderFactory.get("job1").incrementer(new RunIdIncrementer()).listener(new Listener(customerDao))
+    public Job job() {
+        return jobBuilderFactory.get("job").incrementer(new RunIdIncrementer()).listener(new Listener(customerDao))
                 .flow(step1()).end().build();
     }
 
     @Bean
     public Step step1() {
         return stepBuilderFactory.get("step1").<Customer, Customer>chunk(2)
-                .reader(Reader.reader("customer-data.csv"))
+                .reader(Reader.readFromPostgres())
                 .processor(new Processor()).writer(new Writer(customerDao)).build();
     }
 }
