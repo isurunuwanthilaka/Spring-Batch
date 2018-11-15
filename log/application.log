@@ -1,0 +1,58 @@
+#logback.classic pattern: 2018-11-15T16:38:13 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T16:38:13 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15964 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T16:38:13 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T16:38:13 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T16:38:13 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 6.699 seconds (JVM running for 9.317)
+2018-11-15T16:38:13 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T16:44:31 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T16:44:31 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9816 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T16:44:31 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T16:44:31 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T16:44:31 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 5.97 seconds (JVM running for 8.919)
+2018-11-15T16:44:31 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T17:01:50 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:01:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 14612 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:01:50 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:01:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:01:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.371 seconds (JVM running for 9.486)
+2018-11-15T17:01:50 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T17:04:10 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:04:10 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9368 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:04:10 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:04:10 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:04:10 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 4.529 seconds (JVM running for 6.993)
+2018-11-15T17:04:10 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+2018-11-15T17:04:10 http-nio-8080-exec-3] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T17:05:24 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:05:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9944 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:05:24 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:05:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:05:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 4.367 seconds (JVM running for 6.291)
+2018-11-15T17:05:24 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T17:16:40 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:16:40 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9528 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:16:40 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:16:40 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:16:40 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 4.16 seconds (JVM running for 6.031)
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=0 , firstName='Jack', lastName='Smith']) into (Customer[id=2704515605458107200 , firstName='JACK', lastName='SMITH'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=1 , firstName='Adam', lastName='Johnson']) into (Customer[id=7801324646748019104 , firstName='ADAM', lastName='JOHNSON'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=2 , firstName='Kim', lastName='Smith']) into (Customer[id=2288990548754525101 , firstName='KIM', lastName='SMITH'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=3 , firstName='David', lastName='Williams']) into (Customer[id=-1223966801620584666 , firstName='DAVID', lastName='WILLIAMS'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=4 , firstName='Peter', lastName='Davis']) into (Customer[id=2969569361965639677 , firstName='PETER', lastName='DAVIS'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Finish Job! Check the results
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=2704515605458107200 , firstName='JACK', lastName='SMITH']> in the database.
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=7801324646748019104 , firstName='ADAM', lastName='JOHNSON']> in the database.
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=2288990548754525101 , firstName='KIM', lastName='SMITH']> in the database.
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=-1223966801620584666 , firstName='DAVID', lastName='WILLIAMS']> in the database.
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=2969569361965639677 , firstName='PETER', lastName='DAVIS']> in the database.
+#logback.classic pattern: 2018-11-15T17:22:48 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:22:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12304 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:22:48 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:22:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:22:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 4.279 seconds (JVM running for 6.513)
