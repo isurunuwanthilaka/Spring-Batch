@@ -1,0 +1,6 @@
+## This solution aggregates data in the DB.
+
+Uses,
+* spring-batch
+* postgres
+* convert to csv
