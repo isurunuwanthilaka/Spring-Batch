@@ -1,13 +1,13 @@
 package com.millenniumit.cdraggregation.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
 import lombok.NonNull;
 import lombok.Setter;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 import javax.validation.constraints.NotNull;
+import java.sql.Timestamp;
 
 @Entity
 @Table(name= "data_usage")
@@ -19,15 +19,19 @@ public class DataUsageEntity {
     public Long id;
 
     @NotNull
-    public int device_id;
-    public String session_id;
-    public String started_at;
-    public String ended_at;
+    public int deviceId;
+
+    public String sessionId;
+
+    public Timestamp startedAt;
+    public Timestamp endedAt;
     public int duration;
-    public int package_allocation_id;
-    public int package_quota_id;
-    public int quota_usage;
+    public int packageAllocationId;
+    public int packageQuotaId;
+    public int quotaUsage;
+    public boolean aggregated;
+
     @NotNull
-    public String created_at;
+    public Timestamp createdAt;
 
 }

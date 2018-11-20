@@ -1,0 +1,33 @@
+DROP TABLE IF EXISTS agg_session_data_usage_status CASCADE;
+DROP TABLE IF EXISTS agg_session_data_usage_status_change_history CASCADE;
+
+-- aggregation session data usage record status
+CREATE TABLE IF NOT EXISTS agg_session_data_usage_status (
+  id  INTEGER NOT NULL,
+  status VARCHAR(50) NOT NULL,
+  PRIMARY KEY (id)
+);
+
+-- aggregation session data usage record status
+CREATE TABLE IF NOT EXISTS agg_session_data_usage_status (
+  id  INTEGER NOT NULL,
+  status VARCHAR(50) NOT NULL,
+  PRIMARY KEY (id)
+);
+
+-- adding column for data_usage table
+-- comment out later
+ALTER TABLE public.agg_session_data_usage ADD status_id INTEGER ;
+ALTER TABLE public.agg_session_data_usage ADD FOREIGN KEY(status_id) REFERENCES public.agg_session_data_usage_status (id);
+
+-- aggregation session data usage record status change history
+CREATE TABLE IF NOT EXISTS agg_session_data_usage_status_change_history (
+  id          SERIAL,
+  agg_session_data_usage_id INTEGER NOT NULL,
+  FOREIGN KEY (agg_session_data_usage_id) REFERENCES agg_session_data_usage(id),
+  agg_session_data_usage_status_id INTEGER NOT NULL,
+  FOREIGN KEY (agg_session_data_usage_status_id) REFERENCES agg_session_data_usage_status (id),
+  created_at  TIMESTAMP    NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (id)
+);
+
