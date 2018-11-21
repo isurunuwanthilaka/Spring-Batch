@@ -1,6 +1,6 @@
 package com.millenniumit.cdraggregation.config;
 
-import com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity;
+import com.millenniumit.cdraggregation.DTO.AggSessionDataUsageIdsDTO;
 import com.millenniumit.cdraggregation.DTO.SessionDataUsageDTO;
 import com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener;
 import com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor;
@@ -50,7 +50,7 @@ public class BatchConfig {
 
     @Bean
     public Step step1() {
-        return stepBuilderFactory.get("step1").<SessionDataUsageDTO, AggSessionDataUsageEntity>chunk(2)
+        return stepBuilderFactory.get("step1").<SessionDataUsageDTO, AggSessionDataUsageIdsDTO>chunk(2)
                 .reader(aggSessionDataUsageReader)
                 .processor(aggSessionDataUsageProcessor)
                 .writer(aggSessionDataUsageWriter)

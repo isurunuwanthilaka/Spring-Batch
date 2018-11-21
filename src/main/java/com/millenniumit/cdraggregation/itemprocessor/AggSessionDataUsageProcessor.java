@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class AggSessionDataUsageProcessor implements ItemProcessor<SessionDataUsageDTO,AggSessionDataUsageEntity> {
+public class AggSessionDataUsageProcessor implements ItemProcessor<SessionDataUsageDTO,AggSessionDataUsageIdsDTO> {
 
     private static final Logger log = LoggerFactory.getLogger(AggSessionDataUsageProcessor.class);
 
@@ -44,8 +44,8 @@ public class AggSessionDataUsageProcessor implements ItemProcessor<SessionDataUs
 
 
     @Override
-    public AggSessionDataUsageEntity process(SessionDataUsageDTO sessionDataUsageDTO) throws Exception {
+    public AggSessionDataUsageIdsDTO process(SessionDataUsageDTO sessionDataUsageDTO) throws Exception {
         log.debug("Inside Processor : Processing for Session: " + sessionDataUsageDTO.getAggSessionDataUsageEntity().getSessionId());
-        return aggregate(sessionDataUsageDTO).getAggSessionDataUsageEntity();
+        return aggregate(sessionDataUsageDTO);
     }
 }
