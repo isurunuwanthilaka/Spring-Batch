@@ -588,3 +588,273 @@
 2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
 2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
 2018-11-21T12:32:06 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+#logback.classic pattern: 2018-11-21T14:03:56 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:03:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 6312 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:03:56 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:03:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:03:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 9.201 seconds (JVM running for 11.433)
+#logback.classic pattern: 2018-11-21T14:07:24 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:07:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 6432 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:07:24 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:07:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:07:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.334 seconds (JVM running for 10.369)
+#logback.classic pattern: 2018-11-21T14:12:42 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:12:42 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 4552 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:12:42 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:12:42 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:12:42 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 9.094 seconds (JVM running for 11.687)
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+#logback.classic pattern: 2018-11-21T14:22:45 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:22:45 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 3044 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:22:45 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:22:45 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:22:45 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.151 seconds (JVM running for 10.327)
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+#logback.classic pattern: 2018-11-21T14:25:51 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:25:51 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 7028 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:25:51 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:25:51 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:25:51 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.036 seconds (JVM running for 10.181)
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+#logback.classic pattern: 2018-11-21T14:31:36 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:31:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 5228 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:31:36 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:31:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:31:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 9.041 seconds (JVM running for 11.19)
+2018-11-21T14:31:36 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:31:36 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:31:36 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Job done!

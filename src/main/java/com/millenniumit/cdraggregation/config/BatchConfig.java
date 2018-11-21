@@ -40,8 +40,8 @@ public class BatchConfig {
 
 
     @Bean
-    public Job job() {
-        return jobBuilderFactory.get("job").incrementer(new RunIdIncrementer())
+    public Job job1() {
+        return jobBuilderFactory.get("job1").incrementer(new RunIdIncrementer())
                 .listener(new AggSessionDataUsageListener())
                 .flow(step1())
                 .end()

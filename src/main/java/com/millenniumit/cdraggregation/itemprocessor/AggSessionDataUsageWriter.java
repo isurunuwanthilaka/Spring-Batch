@@ -45,6 +45,7 @@ public class AggSessionDataUsageWriter implements ItemWriter<AggSessionDataUsage
 
     @Override
     public void write(List<? extends AggSessionDataUsageIdsDTO> aggSessionDataUsageIdsDTOList) throws Exception {
+
         log.debug("Writing data");
 
         List<AggSessionDataUsageEntity> list1 = extractorAggSessionDataUsageEntities(aggSessionDataUsageIdsDTOList);
