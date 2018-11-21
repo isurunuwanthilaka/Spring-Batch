@@ -1,6 +1,21 @@
-## This solution aggregates data in the DB.
+## This solution aggregates data in the DB (Mi-Wifi Project).
 
-Uses,
-* spring-batch
-* postgres
-* convert to csv
+**Setup**
+
+Clone the project.
+
+Build.
+
+**Aggregations Tables**
+
+agg_session_data_usage
+
+agg_daily_package_allocation_device_data_usage
+
+agg_monthly_package_allocation_data_usage
+
+**Description**
+
+Used spring-batch as ETL tool.
+
+READ : https://spring.io/projects/spring-batch
