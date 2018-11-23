@@ -1,0 +1,860 @@
+#logback.classic pattern: 2018-11-15T16:38:13 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T16:38:13 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15964 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T16:38:13 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T16:38:13 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T16:38:13 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 6.699 seconds (JVM running for 9.317)
+2018-11-15T16:38:13 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T16:44:31 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T16:44:31 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9816 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T16:44:31 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T16:44:31 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T16:44:31 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 5.97 seconds (JVM running for 8.919)
+2018-11-15T16:44:31 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T17:01:50 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:01:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 14612 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:01:50 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:01:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:01:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.371 seconds (JVM running for 9.486)
+2018-11-15T17:01:50 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T17:04:10 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:04:10 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9368 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:04:10 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:04:10 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:04:10 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 4.529 seconds (JVM running for 6.993)
+2018-11-15T17:04:10 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+2018-11-15T17:04:10 http-nio-8080-exec-3] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T17:05:24 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:05:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9944 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:05:24 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:05:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:05:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 4.367 seconds (JVM running for 6.291)
+2018-11-15T17:05:24 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-15T17:16:40 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:16:40 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9528 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:16:40 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:16:40 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:16:40 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 4.16 seconds (JVM running for 6.031)
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=0 , firstName='Jack', lastName='Smith']) into (Customer[id=2704515605458107200 , firstName='JACK', lastName='SMITH'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=1 , firstName='Adam', lastName='Johnson']) into (Customer[id=7801324646748019104 , firstName='ADAM', lastName='JOHNSON'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=2 , firstName='Kim', lastName='Smith']) into (Customer[id=2288990548754525101 , firstName='KIM', lastName='SMITH'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=3 , firstName='David', lastName='Williams']) into (Customer[id=-1223966801620584666 , firstName='DAVID', lastName='WILLIAMS'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Processor - Converting (Customer[id=4 , firstName='Peter', lastName='Davis']) into (Customer[id=2969569361965639677 , firstName='PETER', lastName='DAVIS'])
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Finish Job! Check the results
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=2704515605458107200 , firstName='JACK', lastName='SMITH']> in the database.
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=7801324646748019104 , firstName='ADAM', lastName='JOHNSON']> in the database.
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=2288990548754525101 , firstName='KIM', lastName='SMITH']> in the database.
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=-1223966801620584666 , firstName='DAVID', lastName='WILLIAMS']> in the database.
+2018-11-15T17:16:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.Listener - Found <Customer[id=2969569361965639677 , firstName='PETER', lastName='DAVIS']> in the database.
+#logback.classic pattern: 2018-11-15T17:22:48 %thread] %-5level %logger{80} - %msg%n
+2018-11-15T17:22:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12304 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-15T17:22:48 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-15T17:22:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-15T17:22:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 4.279 seconds (JVM running for 6.513)
+#logback.classic pattern: 2018-11-19T14:37:00 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T14:37:00 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 4752 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T14:37:00 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T14:37:00 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T14:39:00 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T14:39:00 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15956 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T14:39:00 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T14:39:00 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T14:40:12 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T14:40:12 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 14168 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T14:40:12 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T14:40:12 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T14:58:18 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T14:58:18 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 13952 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T14:58:18 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T14:58:18 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T15:01:22 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T15:01:22 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12768 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T15:01:22 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T15:01:22 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T16:43:56 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T16:43:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15220 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T16:43:56 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T16:43:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T16:45:22 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T16:45:22 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 14716 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T16:45:22 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T16:45:22 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T16:46:47 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T16:46:47 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 14456 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T16:46:47 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T16:46:47 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T16:51:21 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T16:51:21 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9200 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T16:51:21 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T16:51:21 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T16:55:10 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T16:55:10 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 14232 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T16:55:10 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T16:55:10 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T16:56:04 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T16:56:04 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15968 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T16:56:04 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T16:56:04 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-19T16:56:04 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.359 seconds (JVM running for 10.692)
+2018-11-19T16:56:04 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-19T17:05:11 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T17:05:11 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 7208 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T17:05:11 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T17:05:11 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-19T17:05:11 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 9.466 seconds (JVM running for 11.775)
+2018-11-19T17:05:11 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - Could not open JPA EntityManager for transaction; nested exception is org.hibernate.exception.JDBCConnectionException: Unable to acquire JDBC Connection
+2018-11-19T17:05:11 http-nio-8080-exec-4] INFO  com.millenniumit.cdraggregation.controller.WebController - Could not open JPA EntityManager for transaction; nested exception is org.hibernate.exception.JDBCConnectionException: Unable to acquire JDBC Connection
+#logback.classic pattern: 2018-11-19T17:07:26 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T17:07:26 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 6084 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T17:07:26 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T17:07:26 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T17:08:46 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T17:08:46 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9128 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T17:08:46 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T17:08:46 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-19T17:19:25 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T17:19:25 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 16308 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T17:19:25 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T17:19:25 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-19T17:19:25 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 6.959 seconds (JVM running for 8.891)
+2018-11-19T17:19:25 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-19T17:20:48 %thread] %-5level %logger{80} - %msg%n
+2018-11-19T17:20:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 2272 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-19T17:20:48 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-19T17:20:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-19T17:20:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.494 seconds (JVM running for 9.587)
+2018-11-19T17:20:48 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T09:49:58 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T09:49:58 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 3228 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T09:49:58 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T09:49:58 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T09:49:58 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 17.388 seconds (JVM running for 22.278)
+2018-11-20T09:49:58 http-nio-8080-exec-2] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T09:55:16 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T09:55:16 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 16244 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T09:55:16 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T09:55:16 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-20T09:56:23 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T09:56:23 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 13672 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T09:56:23 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T09:56:23 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-20T09:57:20 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T09:57:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15440 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T09:57:20 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T09:57:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-20T10:01:09 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:01:09 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 6008 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:01:09 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:01:09 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:01:09 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.08 seconds (JVM running for 10.393)
+2018-11-20T10:01:09 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T10:04:40 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:04:40 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 5360 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:04:40 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:04:40 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:04:40 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.754 seconds (JVM running for 10.833)
+2018-11-20T10:04:40 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T10:05:17 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:05:17 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 7808 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:05:17 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:05:17 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:05:17 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.697 seconds (JVM running for 10.922)
+#logback.classic pattern: 2018-11-20T10:08:17 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:08:17 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12376 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:08:17 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:08:17 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:08:17 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 9.375 seconds (JVM running for 12.12)
+#logback.classic pattern: 2018-11-20T10:09:20 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:09:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 2480 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:09:20 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:09:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:09:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.873 seconds (JVM running for 10.982)
+#logback.classic pattern: 2018-11-20T10:13:03 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:13:03 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 14144 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:13:03 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:13:03 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:13:03 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.427 seconds (JVM running for 11.044)
+#logback.classic pattern: 2018-11-20T10:18:22 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:18:22 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 240 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:18:22 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:18:22 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:18:22 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.373 seconds (JVM running for 10.545)
+#logback.classic pattern: 2018-11-20T10:19:41 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:19:41 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15560 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:19:41 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:19:41 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:19:41 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 10.379 seconds (JVM running for 13.132)
+#logback.classic pattern: 2018-11-20T10:23:56 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:23:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12744 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:23:56 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:23:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:23:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.511 seconds (JVM running for 10.9)
+2018-11-20T10:23:56 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@56e3738a
+2018-11-20T10:23:56 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@56e3738a
+#logback.classic pattern: 2018-11-20T10:27:20 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:27:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9644 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:27:20 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:27:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:27:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.952 seconds (JVM running for 10.181)
+2018-11-20T10:27:20 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@f24f2bb
+2018-11-20T10:27:20 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@f24f2bb
+#logback.classic pattern: 2018-11-20T10:30:09 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:30:09 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 8516 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:30:09 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:30:09 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:30:09 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.52 seconds (JVM running for 10.813)
+#logback.classic pattern: 2018-11-20T10:31:51 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:31:51 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 1996 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:31:51 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:31:51 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:31:51 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.538 seconds (JVM running for 10.704)
+2018-11-20T10:31:51 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T10:33:27 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:33:27 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 7964 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:33:27 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:33:27 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:33:27 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.361 seconds (JVM running for 10.668)
+2018-11-20T10:33:27 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T10:35:57 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:35:57 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12060 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:35:57 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:35:57 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:35:57 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.838 seconds (JVM running for 10.94)
+2018-11-20T10:35:57 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+2018-11-20T10:35:57 http-nio-8080-exec-4] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T10:40:43 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:40:43 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 9860 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:40:43 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:40:43 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:40:43 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 9.021 seconds (JVM running for 11.33)
+2018-11-20T10:40:43 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+2018-11-20T10:40:43 http-nio-8080-exec-5] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T10:46:32 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:46:32 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 8360 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:46:32 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:46:32 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:46:32 main] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Preparing mock data
+2018-11-20T10:46:32 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.684 seconds (JVM running for 9.977)
+2018-11-20T10:46:32 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T10:49:09 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:49:09 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 16344 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:49:09 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:49:09 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:49:09 main] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Preparing mock data
+2018-11-20T10:49:09 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.981 seconds (JVM running for 10.647)
+2018-11-20T10:49:09 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.controller.WebController - PreparedStatementCallback; bad SQL grammar [SELECT JOB_INSTANCE_ID, JOB_NAME from BATCH_JOB_INSTANCE where JOB_NAME = ? and JOB_KEY = ?]; nested exception is org.postgresql.util.PSQLException: ERROR: relation "batch_job_instance" does not exist
+  Position: 39
+#logback.classic pattern: 2018-11-20T10:53:50 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:53:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 11540 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:53:50 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:53:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:53:50 main] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Preparing mock data
+2018-11-20T10:53:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.577 seconds (JVM running for 10.868)
+2018-11-20T10:53:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@50eb72af
+2018-11-20T10:53:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@50eb72af
+2018-11-20T10:53:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+#logback.classic pattern: 2018-11-20T10:58:16 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T10:58:16 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 940 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T10:58:16 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T10:58:16 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T10:58:16 main] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Preparing mock data
+2018-11-20T10:58:16 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.336 seconds (JVM running for 10.793)
+2018-11-20T10:58:16 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@2631cd79
+2018-11-20T10:58:16 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@2631cd79
+2018-11-20T10:58:16 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T10:58:16 http-nio-8080-exec-5] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@65863e7f
+2018-11-20T10:58:16 http-nio-8080-exec-5] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@65863e7f
+2018-11-20T10:58:16 http-nio-8080-exec-5] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+#logback.classic pattern: 2018-11-20T11:03:20 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T11:03:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 13248 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T11:03:20 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T11:03:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T11:03:20 main] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Preparing mock data
+2018-11-20T11:03:20 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.293 seconds (JVM running for 10.683)
+2018-11-20T11:03:20 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@69db22d0
+2018-11-20T11:03:20 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@69db22d0
+2018-11-20T11:03:20 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T11:03:20 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@716f3bb3
+2018-11-20T11:03:20 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@716f3bb3
+2018-11-20T11:03:20 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+#logback.classic pattern: 2018-11-20T11:10:32 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T11:10:32 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 13560 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T11:10:32 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T11:10:32 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T11:10:32 main] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Preparing mock data
+2018-11-20T11:10:32 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.428 seconds (JVM running for 10.92)
+2018-11-20T11:10:32 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@1403eb07
+2018-11-20T11:10:32 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@1403eb07
+2018-11-20T11:10:32 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T11:10:32 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@202fecfd
+2018-11-20T11:10:32 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@202fecfd
+2018-11-20T11:10:32 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T11:10:32 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@3482e071
+2018-11-20T11:10:32 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+#logback.classic pattern: 2018-11-20T11:17:52 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T11:17:52 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 7276 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T11:17:52 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T11:17:52 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T11:17:52 main] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Preparing mock data
+2018-11-20T11:17:52 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.854 seconds (JVM running for 10.435)
+2018-11-20T11:17:52 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@19280dae
+2018-11-20T11:17:52 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@19280dae
+2018-11-20T11:17:52 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T11:17:52 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@b749185
+2018-11-20T11:17:52 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - com.millenniumit.cdraggregation.entity.AggSessionDataUsageEntity@b749185
+2018-11-20T11:17:52 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T11:17:52 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+#logback.classic pattern: 2018-11-20T11:41:37 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T11:41:37 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12916 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T11:41:37 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T11:41:37 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-20T11:42:23 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T11:42:23 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 10356 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T11:42:23 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T11:42:23 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T11:42:23 main] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Preparing mock data
+#logback.classic pattern: 2018-11-20T20:39:56 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T20:39:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 14596 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T20:39:56 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T20:39:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-20T20:45:38 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T20:45:38 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12816 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T20:45:38 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T20:45:38 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-20T20:53:15 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T20:53:15 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15328 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T20:53:15 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T20:53:15 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-20T20:59:44 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T20:59:44 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15024 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T20:59:44 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T20:59:44 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-20T21:00:48 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:00:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 13640 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:00:48 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:00:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-20T21:03:06 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:03:06 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 6128 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:03:06 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:03:06 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:03:06 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - INside AggSessionDataUsageReader constructor
+#logback.classic pattern: 2018-11-20T21:06:36 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:06:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 8412 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:06:36 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:06:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:06:36 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Inside AggSessionDataUsageReader constructor
+#logback.classic pattern: 2018-11-20T21:12:48 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:12:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12308 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:12:48 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:12:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:12:48 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Inside AggSessionDataUsageReader constructor
+#logback.classic pattern: 2018-11-20T21:15:57 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:15:57 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 2688 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:15:57 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:15:57 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:15:57 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Inside AggSessionDataUsageReader constructor
+#logback.classic pattern: 2018-11-20T21:19:11 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:19:11 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 4624 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:19:11 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:19:11 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:19:11 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Inside AggSessionDataUsageReader constructor
+2018-11-20T21:19:11 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 35.104 seconds (JVM running for 37.134)
+2018-11-20T21:19:11 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+2018-11-20T21:19:11 http-nio-8080-exec-5] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+2018-11-20T21:19:11 http-nio-8080-exec-8] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+#logback.classic pattern: 2018-11-20T21:26:38 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:26:38 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 8540 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:26:38 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:26:38 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:26:38 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Inside AggSessionDataUsageReader constructor
+2018-11-20T21:26:38 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 38.061 seconds (JVM running for 40.321)
+2018-11-20T21:26:38 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+2018-11-20T21:26:38 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session1
+#logback.classic pattern: 2018-11-20T21:32:29 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:32:29 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 14652 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:32:29 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:32:29 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:32:29 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Inside AggSessionDataUsageReader constructor
+2018-11-20T21:32:29 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 35.676 seconds (JVM running for 37.784)
+2018-11-20T21:32:29 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+2018-11-20T21:32:29 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session1
+2018-11-20T21:32:29 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session1
+2018-11-20T21:32:29 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 4
+#logback.classic pattern: 2018-11-20T21:34:35 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:34:35 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 8892 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:34:35 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:34:35 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:34:35 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Inside AggSessionDataUsageReader constructor
+2018-11-20T21:34:35 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 36.117 seconds (JVM running for 38.233)
+2018-11-20T21:34:35 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session1
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session1
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 4
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading : 1
+2018-11-20T21:34:35 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session2
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session2
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 4
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading : 2
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-20T21:34:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+#logback.classic pattern: 2018-11-20T21:36:15 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:36:15 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 3720 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:36:15 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:36:15 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:36:15 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Inside AggSessionDataUsageReader constructor
+2018-11-20T21:36:15 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 37.1 seconds (JVM running for 39.096)
+2018-11-20T21:36:15 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session1
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session1
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 4
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading : 1
+2018-11-20T21:36:15 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session2
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - session2
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 4
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading : 2
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-20T21:36:15 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T21:36:15 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - 2
+2018-11-20T21:36:15 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+#logback.classic pattern: 2018-11-20T21:41:48 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:41:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15232 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:41:48 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:41:48 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:41:48 main] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Inside AggSessionDataUsageReader constructor
+#logback.classic pattern: 2018-11-20T21:49:14 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:49:14 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 15936 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:49:14 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:49:14 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:49:14 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 33.976 seconds (JVM running for 36.178)
+#logback.classic pattern: 2018-11-20T21:50:50 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:50:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 6284 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:50:50 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:50:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:50:50 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 34.231 seconds (JVM running for 36.272)
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-20T21:50:50 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T21:50:50 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+#logback.classic pattern: 2018-11-20T21:53:01 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T21:53:01 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 4672 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T21:53:01 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T21:53:01 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T21:53:01 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 32.67 seconds (JVM running for 34.739)
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T21:53:01 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T21:53:01 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+#logback.classic pattern: 2018-11-20T22:14:35 %thread] %-5level %logger{80} - %msg%n
+2018-11-20T22:14:35 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 4892 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-20T22:14:35 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-20T22:14:35 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-20T22:14:35 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 39.684 seconds (JVM running for 42.95)
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-20T22:14:35 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-20T22:14:35 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+#logback.classic pattern: 2018-11-21T12:20:27 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T12:20:27 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 11928 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T12:20:27 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T12:20:27 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-21T12:22:05 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T12:22:05 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 7032 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T12:22:05 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T12:22:05 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+#logback.classic pattern: 2018-11-21T12:24:36 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T12:24:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12136 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T12:24:36 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T12:24:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T12:24:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.709 seconds (JVM running for 11.066)
+2018-11-21T12:24:36 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:24:36 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:24:36 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T12:24:36 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T12:24:36 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+#logback.classic pattern: 2018-11-21T12:26:44 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T12:26:44 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 11308 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T12:26:44 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T12:26:44 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T12:26:44 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.553 seconds (JVM running for 9.59)
+2018-11-21T12:26:44 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:26:44 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:26:44 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T12:26:44 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T12:26:44 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+#logback.classic pattern: 2018-11-21T12:27:56 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T12:27:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 4888 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T12:27:56 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T12:27:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T12:27:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.082 seconds (JVM running for 9.163)
+2018-11-21T12:27:56 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:27:56 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:27:56 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T12:27:56 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T12:27:56 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+#logback.classic pattern: 2018-11-21T12:32:06 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T12:32:06 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 12356 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T12:32:06 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T12:32:06 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T12:32:06 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 7.674 seconds (JVM running for 9.683)
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T12:32:06 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T12:32:06 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+#logback.classic pattern: 2018-11-21T14:03:56 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:03:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 6312 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:03:56 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:03:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:03:56 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 9.201 seconds (JVM running for 11.433)
+#logback.classic pattern: 2018-11-21T14:07:24 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:07:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 6432 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:07:24 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:07:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:07:24 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.334 seconds (JVM running for 10.369)
+#logback.classic pattern: 2018-11-21T14:12:42 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:12:42 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 4552 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:12:42 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:12:42 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:12:42 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 9.094 seconds (JVM running for 11.687)
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:12:42 http-nio-8080-exec-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:12:42 http-nio-8080-exec-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+#logback.classic pattern: 2018-11-21T14:22:45 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:22:45 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 3044 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:22:45 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:22:45 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:22:45 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.151 seconds (JVM running for 10.327)
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:22:45 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:22:45 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+#logback.classic pattern: 2018-11-21T14:25:51 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:25:51 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 7028 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:25:51 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:25:51 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:25:51 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 8.036 seconds (JVM running for 10.181)
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session2
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session4
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session1
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session3
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageProcessor - Inside Processor : Processing for Session: session5
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageWriter - Writing data
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:25:51 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:25:51 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Done! Check Console Window for more details
+#logback.classic pattern: 2018-11-21T14:31:36 %thread] %-5level %logger{80} - %msg%n
+2018-11-21T14:31:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Starting CdrAggregationApplication on LP-HQ-15949 with PID 5228 (C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App\target\classes started by IsuruN in C:\Users\isurun\Desktop\Projects\CDR-Aggregation-App)
+2018-11-21T14:31:36 main] DEBUG com.millenniumit.cdraggregation.CdrAggregationApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-21T14:31:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - No active profile set, falling back to default profiles: default
+2018-11-21T14:31:36 main] INFO  com.millenniumit.cdraggregation.CdrAggregationApplication - Started CdrAggregationApplication in 9.041 seconds (JVM running for 11.19)
+2018-11-21T14:31:36 scheduling-1] DEBUG com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageReader - Run the reading
+2018-11-21T14:31:36 scheduling-1] INFO  com.millenniumit.cdraggregation.itemprocessor.AggSessionDataUsageListener - Finish Job! Check the results
+2018-11-21T14:31:36 scheduling-1] DEBUG com.millenniumit.cdraggregation.controller.JobController - Job done!

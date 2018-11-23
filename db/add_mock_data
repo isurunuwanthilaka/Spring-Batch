@@ -1,0 +1,20 @@
+INSERT INTO public.agg_session_data_usage_status (id,status) VALUES (0,'started'),(1,'provisioned'),(2,'ready_for_aggregation'),(3,'done_aggregation');
+
+-- adding chunks to the data usage table
+INSERT INTO public.data_usage (id,device_id,session_id,started_at,ended_at,duration,package_allocation_id,package_quota_id,quota_usage,aggregated)
+ VALUES (DEFAULT ,1,'session1','2018-11-20 07:00:00.0','2018-11-20 08:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,1,'session1','2018-11-20 08:00:00.0','2018-11-20 09:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,1,'session1','2018-11-20 09:00:00.0','2018-11-20 10:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,1,'session1','2018-11-20 10:00:00.0','2018-11-20 11:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,2,'session2','2018-11-20 07:00:00.0','2018-11-20 08:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,2,'session2','2018-11-20 08:00:00.0','2018-11-20 09:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,2,'session2','2018-11-20 09:00:00.0','2018-11-20 10:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,2,'session2','2018-11-20 10:00:00.0','2018-11-20 11:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,1,'session3','2018-11-20 08:00:00.0','2018-11-20 09:00:00.0',3600,1,1,30000000,FALSE),
+ (DEFAULT ,1,'session3','2018-11-20 09:00:00.0','2018-11-20 10:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,1,'session3','2018-11-20 10:00:00.0','2018-11-20 11:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,2,'session4','2018-11-20 07:00:00.0','2018-11-20 08:00:00.0',3600,1,1,50000000,FALSE),
+ (DEFAULT ,2,'session5','2018-11-20 08:00:00.0','2018-11-20 09:00:00.0',3600,1,1,10000000,FALSE),
+ (DEFAULT ,2,'session5','2018-11-20 09:00:00.0','2018-11-20 10:00:00.0',3600,1,1,70000000,FALSE),
+ (DEFAULT ,2,'session5','2018-11-20 10:00:00.0','2018-11-20 11:00:00.0',3600,1,1,80000000,FALSE);
+
